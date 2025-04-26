@@ -1,0 +1,12 @@
+{
+  "BigQuery Schema": [
+    {
+      "name": "name",
+      "type": "STRING"
+    },
+    {
+      "name": "age",
+      "type": "INTEGER"
+    }
+  ]
+}
